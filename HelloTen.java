@@ -7,6 +7,7 @@ public class HelloTen
 		{
 			System.out.println("Hello World");
             a++;//a=a+1 or a+=1
+			//THIS CODE LOOKS PERFECT!!!!
 		}
 	}
 }
